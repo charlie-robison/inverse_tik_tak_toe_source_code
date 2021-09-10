@@ -1,2 +1,2 @@
-# inverse_tik_tak_toe_source_code
+# Inverse Tik Tak Toe Source Code
 Source code for Inverse Tik Tak Toe Project.
